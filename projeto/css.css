@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    font-size: 150px;
+    color:#30488a;
+}
+
+h2{
+    font-size: 100px;
+    color: #102db0;
+}
+button{
+ align-items: center;
+ position: relative;
+}
